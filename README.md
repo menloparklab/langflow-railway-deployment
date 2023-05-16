@@ -6,7 +6,7 @@ tags:
   - python
 ---
 
-# FastAPI Example
+# LangFlow Example
 
 This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
 
