@@ -10,7 +10,8 @@ tags:
 
 This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
 
-<!-- [![Deploy on Railway](https://railway.app/button.svg)]() -->
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Emy2sU?referralCode=MnPSdg)
 ## ✨ Features
 
 - LangFlow
