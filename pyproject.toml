@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-langflow = "*"
+langflow = "~0.0.74"
 
 [tool.poetry.dev-dependencies]
 
