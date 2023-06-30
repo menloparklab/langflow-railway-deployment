@@ -10,8 +10,9 @@ tags:
 
 This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
 
+Please click the button below and follow the setup in Railway to get the LangFlow instance started.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Emy2sU?referralCode=MnPSdg)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Emy2sU?referralCode=63H2w2)
 ## ✨ Features
 
 - LangFlow
